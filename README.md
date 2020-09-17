@@ -1,10 +1,11 @@
 # github-finder
 
 ### Application for finding Github users by username.
-
 1. React
 1. Context API
 1. Github API (for getting users)
+
+>Hosted at: [Github Finder](https://dbs-githubfinder.netlify.app) 
 
 ### Usage:
 Add your environment variables in '.env.local' file (in root directory of project):
